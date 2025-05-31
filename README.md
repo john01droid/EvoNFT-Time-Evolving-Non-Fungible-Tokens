@@ -23,5 +23,7 @@ To revolutionize digital art and collectibles by enabling time-bound or mileston
 - Time-locked NFT vaults with unlockable evolutions
 
 ## Contract Details
+project done by Rajvardhan Singh 
+
 0xa23A35cD70EBEFd476217c434c02cf160De01aA4
 ![alt text](image.png)
